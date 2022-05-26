@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: cadetblue;
+    /* background-image: url(matt.jpg); */
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+h1{
+    font-size: 40px;
+    color: grey;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.register{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: 1000% ;
+    color: white;
+    padding: 20px;
+}
+.reg{
+    background-color: #063358;
+    border-radius: 10px;
+    border: 2px solid white;
+    padding: 15px;
+}
+.label{
+    font-size: 19px;
+    margin-top: 20px;
+    font-weight: normal;
+}
+
+.form-group{
+    margin-bottom: 10px;
+}
